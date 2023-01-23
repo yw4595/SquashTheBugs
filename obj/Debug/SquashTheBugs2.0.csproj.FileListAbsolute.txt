@@ -1,0 +1,8 @@
+C:\Users\Wiz\Desktop\IGME 201\SquashTheBugs2.0\bin\Debug\SquashTheBugs2.0.exe.config
+C:\Users\Wiz\Desktop\IGME 201\SquashTheBugs2.0\bin\Debug\SquashTheBugs2.0.exe
+C:\Users\Wiz\Desktop\IGME 201\SquashTheBugs2.0\bin\Debug\SquashTheBugs2.0.pdb
+C:\Users\Wiz\Desktop\IGME 201\SquashTheBugs2.0\obj\Debug\SquashTheBugs2.0.csproj.AssemblyReference.cache
+C:\Users\Wiz\Desktop\IGME 201\SquashTheBugs2.0\obj\Debug\SquashTheBugs2.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wiz\Desktop\IGME 201\SquashTheBugs2.0\obj\Debug\SquashTheBugs2.0.csproj.CoreCompileInputs.cache
+C:\Users\Wiz\Desktop\IGME 201\SquashTheBugs2.0\obj\Debug\SquashTheBugs2.0.exe
+C:\Users\Wiz\Desktop\IGME 201\SquashTheBugs2.0\obj\Debug\SquashTheBugs2.0.pdb
