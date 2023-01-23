@@ -4,7 +4,7 @@ namespace SquashTheBugs2._0
 {
     /*
     * Class Program
-    * Author: David Schuh
+    * Author: Yanzhi Wang
     * Purpose: Bug squashing exercise
     * Restrictions: None
     */
